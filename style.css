@@ -1,0 +1,49 @@
+.regNumber{
+    background-color: bisque;
+    border: 0.1em solid;
+    border-radius: 0.25em;
+    padding: 1em;
+    margin: 1em;
+    width: 7em;
+    text-align: center;
+    font-weight: bold;
+    float: left;
+}
+.massage{
+    height: 1em;
+    font-weight: bold;
+    color: red;
+    margin-left: 100px;
+    
+
+}
+.blue{
+    background-color: green;
+    height: 30px;
+    margin-left: 100px;
+
+}
+.regNumberEnterd{
+    height: 30px;
+    margin-left: 100px;
+
+}
+.back{
+    background-color: #9eeba9;
+    margin-left: 450PX;
+    margin-right: 450px;
+    border-radius: 1.00em;
+}
+.center{
+    margin-left: 100px;
+}
+.filter{
+    text-align: center;
+    display: flex;
+    margin-left: 100px;
+    padding-top: 100px;
+}
+.reg{
+    height: 30px;
+    margin-left: 100px;
+}
